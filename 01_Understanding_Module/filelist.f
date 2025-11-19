@@ -1,2 +1,2 @@
-adder.v
-tb_adder.v
+./src/adder.v
+./src/tb_adder.v
